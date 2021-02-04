@@ -1,0 +1,17 @@
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\bin\Debug\net5.0\BackendApplicationChallenge.exe
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\bin\Debug\net5.0\BackendApplicationChallenge.deps.json
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\bin\Debug\net5.0\BackendApplicationChallenge.runtimeconfig.json
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\bin\Debug\net5.0\BackendApplicationChallenge.runtimeconfig.dev.json
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\bin\Debug\net5.0\BackendApplicationChallenge.dll
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\bin\Debug\net5.0\ref\BackendApplicationChallenge.dll
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\bin\Debug\net5.0\BackendApplicationChallenge.pdb
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\obj\Debug\net5.0\BackendApplicationChallenge.csprojAssemblyReference.cache
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\obj\Debug\net5.0\BackendApplicationChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\obj\Debug\net5.0\BackendApplicationChallenge.AssemblyInfoInputs.cache
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\obj\Debug\net5.0\BackendApplicationChallenge.AssemblyInfo.cs
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\obj\Debug\net5.0\BackendApplicationChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\obj\Debug\net5.0\BackendApplicationChallenge.dll
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\obj\Debug\net5.0\ref\BackendApplicationChallenge.dll
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\obj\Debug\net5.0\BackendApplicationChallenge.pdb
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\obj\Debug\net5.0\BackendApplicationChallenge.genruntimeconfig.cache
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\bin\Debug\net5.0\input.txt

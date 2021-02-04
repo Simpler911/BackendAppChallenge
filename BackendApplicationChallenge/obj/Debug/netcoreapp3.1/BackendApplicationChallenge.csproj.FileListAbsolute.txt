@@ -1,0 +1,13 @@
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\bin\Debug\netcoreapp3.1\BackendApplicationChallenge.exe
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\bin\Debug\netcoreapp3.1\BackendApplicationChallenge.deps.json
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\bin\Debug\netcoreapp3.1\BackendApplicationChallenge.runtimeconfig.json
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\bin\Debug\netcoreapp3.1\BackendApplicationChallenge.runtimeconfig.dev.json
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\bin\Debug\netcoreapp3.1\BackendApplicationChallenge.dll
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\bin\Debug\netcoreapp3.1\BackendApplicationChallenge.pdb
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\obj\Debug\netcoreapp3.1\BackendApplicationChallenge.csprojAssemblyReference.cache
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\obj\Debug\netcoreapp3.1\BackendApplicationChallenge.AssemblyInfoInputs.cache
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\obj\Debug\netcoreapp3.1\BackendApplicationChallenge.AssemblyInfo.cs
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\obj\Debug\netcoreapp3.1\BackendApplicationChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\obj\Debug\netcoreapp3.1\BackendApplicationChallenge.dll
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\obj\Debug\netcoreapp3.1\BackendApplicationChallenge.pdb
+C:\Users\Tauras\source\repos\BackendApplicationChallenge\BackendApplicationChallenge\obj\Debug\netcoreapp3.1\BackendApplicationChallenge.genruntimeconfig.cache
